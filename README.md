@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am Frontend Developer with a passion for creating and modern Web Apps<br>📫 You can find me through Email or add me on Linked in
+😎 I am Frontend Developer with a passion for creating and designing modern Web Apps<br>📫 You can find me through Email or add me on Linked in
 
 
 ## 🌐 Socials:

@@ -20,5 +20,7 @@
 <img width=325 src="https://git-stats-lilac.vercel.app/api/top-langs/?username=grooper2&theme=vue-dark&rank_icon=github&count_private=true&show_icons=true&hide=stars&border_radius=10" alt="top langs stats" />
 
 
----
-[![](https://visitcount.itsvg.in/api?id=grooper2&icon=0&color=0)](https://visitcount.itsvg.in)
+# 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=46&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&repeat=false&random=true&width=500&height=70&lines=Thank+you+%F0%9F%A4%99;Gracias+%F0%9F%A4%99;Merci+%F0%9F%A4%99;Grazie+%F0%9F%A4%99;Danke+%F0%9F%A4%99;Obrigado+%2F+Obrigada+%F0%9F%A4%99;%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%F0%9F%A4%99;Arigat%C5%8D+%F0%9F%A4%99;%CE%95%CF%85%CF%87%CE%B1%CF%81%CE%B9%CF%83%CF%84%CF%8E+%F0%9F%A4%99;Asante+%F0%9F%A4%99;Tack+%F0%9F%A4%99;K%C3%B6sz%C3%B6n%C3%B6m+%F0%9F%A4%99;Dzi%C4%99kuj%C4%99+%F0%9F%A4%99;D%C4%9Bkuji+%F0%9F%A4%99;Kiitos+%F0%9F%A4%99" alt="Typing SVG" />
+</h1>

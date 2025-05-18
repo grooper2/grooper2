@@ -2,6 +2,7 @@
 😎 I am Frontend Developer with a passion for creating and designing modern Web Apps<br>📫 You can find me through Email or add me on Linked in
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-athanasiou-9ab68a186) 
 

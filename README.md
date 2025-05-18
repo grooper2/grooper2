@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=46&duration=3000&pause=1000&color=56D364&repeat=false&center=true&vCenter=true&width=500&height=70&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub!!" alt="Typing SVG" />
 </h1>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/100cwNnYLmlSNOLVAq4SBQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # 💫 About Me:
 😎 I am Frontend Developer with a passion for creating and designing modern Web Apps<br>📫 You can find me through Email or add me on Linked in
 

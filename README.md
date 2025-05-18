@@ -3,7 +3,7 @@
 </h1>
 
 # 🎵 Here's a song to listen while you read 🎵
-[Play on Spotify 🎧]([https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=0f2d026538cc4dcd](https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=2afcb576ac2f4c39))  
+[Play on Spotify 🎧](https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=2afcb576ac2f4c39)  
 _(Tip: right-click or Ctrl/Cmd-click to open in a new tab)_
 
 # 💫 About Me:

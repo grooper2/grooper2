@@ -15,10 +15,9 @@
 # 📊 GitHub Stats:
 <div>
   <img width=390 height=153 src="https://streak-stats.demolab.com?user=grooper2&theme=vue-dark&border_radius=10" alt="GitHub Streak" />
-  <img width=390 height=153 src="https://git-stats-lilac.vercel.app/api?username=grooper2&count_private=true&theme=vue-dark&rank_icon=github&show_icons=true&hide=stars&border_radius=10" alt="readme stats" />
+  <img width=390 height=153 src="https://git-stats-lilac.vercel.app/api?username=grooper2&theme=vue-dark&rank_icon=github&show_icons=true&hide=stars&border_radius=10" alt="readme stats" />
 </div>
-<img width=325 src="https://git-stats-lilac.vercel.app/api/top-langs/?username=grooper2&count_private=true&theme=vue-dark&rank_icon=github&show_icons=true&hide=stars&border_radius=10" alt="readme stats" />
-<!-- ![Christos GitHub stats](https://git-stats-lilac.vercel.app/api?username=grooper2&count_private=true&theme=dark&show_icons=true&hide=stars)<br/> -->
+<img width=325 src="https://git-stats-lilac.vercel.app/api/top-langs/?username=grooper2&hide=HTML&langs_count=8&layout=compact&size_weight=0.5&count_wieght=0.5&theme=vue-dark&rank_icon=github&show_icons=true&hide=stars&border_radius=10" alt="top langs stats" />
 
 
 ---

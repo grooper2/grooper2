@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=46&duration=3000&pause=1000&color=56D364&repeat=false&center=true&vCenter=true&width=500&height=70&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub!!" alt="Typing SVG" />
 </h1>
 
-# Here a song to listen while you read:
-[▶ Play on Spotify](https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=0f2d026538cc4dcd)  
+# 🎵 Here's a song to listen while you read 🎵
+[Play on Spotify 🎧](https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=0f2d026538cc4dcd)  
 _(Tip: right-click or Ctrl/Cmd-click to open in a new tab)_
 
 # 💫 About Me:

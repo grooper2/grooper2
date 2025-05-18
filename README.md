@@ -15,8 +15,8 @@
 # 📊 GitHub Stats:
 <div>
   <img src="https://streak-stats.demolab.com?user=grooper2&theme=vue-dark&border_radius=10" alt="GitHub Streak" />
-  ![Christos GitHub stats](https://git-stats-lilac.vercel.app/api?username=grooper2&count_private=true&theme=dark&show_icons=true&hide=stars)<br/>
 </div>
+![Christos GitHub stats](https://git-stats-lilac.vercel.app/api?username=grooper2&count_private=true&theme=dark&show_icons=true&hide=stars)<br/>
 
 
 ---

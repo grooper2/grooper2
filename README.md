@@ -3,7 +3,7 @@
 </h1>
 
 # Here a song to listen while you read:
-<a href="https://open.spotify.com/embed/track/100cwNnYLmlSNOLVAq4SBQ?utm_source=generator" target="_blank">Click here</a>
+[Click here](https://open.spotify.com/track/100cwNnYLmlSNOLVAq4SBQ?si=0f2d026538cc4dcd)
 
 # 💫 About Me:
 😎 I am Frontend Developer with a passion for creating and designing modern Web Apps<br>📫 You can find me through Email or add me on Linked in

@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=35&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=500&height=70&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub!!" alt="Typing SVG" />
+</h1>
+
+---
+
 # 💫 About Me:
 😎 I am Frontend Developer with a passion for creating and designing modern Web Apps<br>📫 You can find me through Email or add me on Linked in
 
